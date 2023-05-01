@@ -1,0 +1,9 @@
+<tr>
+	<td><span>{orderid}</span></td>
+	<td><span>{date}</span></td>
+	<td><span>{pname}</span></td>
+	<td><span>{price}</span></td>
+	<td><span>{quant}</span></td>
+	<td><span>{total}</span></td>
+	<td><span>{status}</span></td>
+</tr>
